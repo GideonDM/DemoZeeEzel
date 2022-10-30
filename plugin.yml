@@ -1,0 +1,8 @@
+name: DemoPlugin
+version: 0.0.1
+main: nl.zeeezel.demoproject.DemoProject
+author: ZeeEzel
+api-version: 1.13
+commands:
+  zeeezel:
+    description: Gebruik deze command om een demo te krijgen.
